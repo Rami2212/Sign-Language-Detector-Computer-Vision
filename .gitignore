@@ -208,3 +208,10 @@ __marimo__/
 
 # Images
 CollectedImages/
+
+# Annotations
+AnnotationTool/
+
+# Data
+Data/train/
+Data/test/
