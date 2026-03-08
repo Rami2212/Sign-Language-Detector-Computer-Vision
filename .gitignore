@@ -214,4 +214,4 @@ AnnotationTool/
 
 # Data
 Data/train/
-Data/test/
+Data/val/
