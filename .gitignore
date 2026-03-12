@@ -212,6 +212,9 @@ CollectedImages/
 # Annotations
 AnnotationTool/
 
+# yolov5
+yolov5/
+
 # Data
 Data/train/
 Data/val/
